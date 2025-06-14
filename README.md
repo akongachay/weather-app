@@ -20,7 +20,7 @@ A responsive weather forecast application built with **React**, which displays t
 ![Image](https://github.com/user-attachments/assets/dd2a38bd-46e9-46bc-bdcb-4a7bb825b7e5)
 
 You can access the following link to try it yourself
-
+https://weather-app-xi-five-56.vercel.app/
 ## 🔥 Features
 
 - 🔍 Search for any city’s weather
