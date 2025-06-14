@@ -41,22 +41,6 @@ https://weather-app-xi-five-56.vercel.app/
 
 ---
 
-## 📁 Project Structure
-
-src/
-├── App.jsx # Main app component
-├── components/
-│ ├── SearchSection.jsx # Search input & location button
-│ ├── CurrentWeather.jsx # Displays current weather info
-│ ├── HourlyWeather.jsx # Shows each hourly weather item
-│ ├── NoResultsDiv.jsx # Error UI if no results found
-├── constants.js # Weather icon code mappings
-├── icons/ # Folder for weather icon SVGs
-
-
-
----
-
 ## 🚀 Getting Started
 
 ### 1. Clone the repository
